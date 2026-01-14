@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # [1] Reading files and directories in Python using os module
-FOLDER = r"C:\Users\ADMIN\Desktop\SOFTWARE NOW\temperatures"
+FOLDER = r"C:\Users\ADMIN\Desktop\SOFTWARE NOW\Assignment 2/temperatures"
 
 MONTHS = [
     "January","February","March","April","May","June",
